@@ -1,4 +1,4 @@
 # image-templates
 A Great collection of image templates to use!
 
-Please note each release is a different set of images!
+Please note each release adds more and more images to download!
