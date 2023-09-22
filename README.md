@@ -1,4 +1,1 @@
-# image-templates
-A Great collection of image templates to use!
-
-Please note each release adds more and more images to download!
+All images do have a watermark,Unwatermarked images are NOT available right now
